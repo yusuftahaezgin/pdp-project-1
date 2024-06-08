@@ -1,0 +1,2 @@
+Projeyi yaparken JGit kutuphanesinden yararlandım bunu kullanmak icinde projenin libraries kısmındaki classpath bolumune bu kutuphaneyi kullanmak icin
+ilgili jar dosyasını eklemek gerekiyor bu eklenecek dosyaları da JGit klasorunde belirttim.
